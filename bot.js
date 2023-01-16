@@ -44,8 +44,8 @@ ipc.connectTo("parent", socketPath, function () {
 });
 
 const bot = mineflayer.createBot({
-  host: server,
-  port: port,
+  host: server,SmpRealms.aternos.me
+  port: port,40227
   username: username,
   password: password,
 });
